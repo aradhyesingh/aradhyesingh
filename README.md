@@ -1,3 +1,7 @@
+Hi 👋
+I am Aradhye and I am a frontent developer with a keen interest in web-app and web-game development.
+
+<!--
 ### Hi there 👋
 
 **aradhyesingh/aradhyesingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
